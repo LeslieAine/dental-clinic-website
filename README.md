@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Click [here](https://leslieaine.github.io/Dental-Clinic) to see the live demo of the project.
+- Click [here](https://leslieaine.github.io/dental-clinic-website/) to see the live demo of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
